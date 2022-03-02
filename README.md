@@ -1,4 +1,4 @@
-### Olá eu sou o Geovane Jorge desenvolvedor .NET  👋
+### Olá eu sou o Geovane desenvolvedor .NET  👋
 
 
 - 🔭 Hoje trabalho com backeend 
