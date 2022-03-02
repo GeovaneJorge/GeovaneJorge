@@ -1,8 +1,5 @@
 ### Olá eu sou o Geovane Jorge desenvolvedor .NET  👋
 
-**GeovaneJorge/GeovaneJorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho com backeend 
 - 🌱 Estudando .NET
