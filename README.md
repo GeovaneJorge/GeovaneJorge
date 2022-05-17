@@ -1,7 +1,7 @@
 ### Olá eu sou o Geovane desenvolvedor .NET  👋
 
 
-- 🔭 Hoje trabalho com backeend 
+- 🔭 Hoje trabalho com backend 
 - 🌱 Estudando .NET
 
 <div align="center">
