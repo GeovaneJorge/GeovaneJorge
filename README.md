@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com backend 
-- 🌱 Estudando .NET,Teste Unitário,Banco de dados,Entity Framework,Teste de integração, Azure e Mensageria.
+- 🌱 Estudando .NET, Teste Unitário, Banco de dados, Entity Framework, Teste de integração, Azure e Mensageria.
 
 <div align="center">
   <a href="https://github.com/GeovaneJorge">
