@@ -1,4 +1,4 @@
-### Olá eu sou o Geovane desenvolvedor .NET  👋
+### Olá eu sou o Geovane Analista de Sistemas  👋
 
 
 - 🔭 Hoje trabalho com backend 
