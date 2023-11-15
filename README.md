@@ -1,7 +1,7 @@
 ### Olá eu sou o Geovane Analista de Sistemas  👋
 
 
-- 🔭 Hoje trabalho com backend 
+- 🔭 Hoje estou trasição de carreira para Desenvolvimento. 
 - 🌱 Estudando .NET, Teste Unitário, Banco de dados, Entity Framework, Teste de integração, Azure e Mensageria.
 
 <div align="center">
