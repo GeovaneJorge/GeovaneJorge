@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor de Software. 
-- 🌱 Estudando .NET, Teste Unitário, Banco de dados, Entity Framework, Teste de integração, Azure e Mensageria.
+- 🌱 .NET, Teste Unitário, Banco de dados, Entity Framework, Teste de integração, Azure e Mensageria.
 
 <div align="center">
   <a href="https://github.com/GeovaneJorge">
